@@ -73,7 +73,7 @@ https://rickyroses.github.io/Pokedex/
 
 ## Autores
 
-* **Ricardo Rosas** (Desarrollador): Desarrollo de la interfaz frontend y la integración con el backend.
+* **Ricardo León** (Desarrollador): Desarrollo de la interfaz frontend y la integración con el backend.
 * **Itzel Quezada** (Desarroladora): Desarrollo de la interfaz frontend y la integración con el backend.
 * **Pilar Mondragón** (Desarrolladora): Desarrollo de la interfaz frontend y la integración con el backend.
 * **Verónica Lira** (Desarrolladora): Desarrollo de la interfaz frontend y la integración con el backend.
