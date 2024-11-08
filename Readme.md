@@ -5,8 +5,13 @@ Un Pokédex simple y funcional creado con JavaScript puro. Permite buscar Pokém
 
 ## Capturas de pantalla
 
+* **Pantalla de inicio:**
 ![Pantalla de inicio](/Imagenes/PantallaInicio.jpeg)
+
+* **Buscador:**
 ![Resultados de búsqueda](/Imagenes/Buscador.jpeg)
+
+* **Tarjeta descriptiva:**
 ![Detalles de tarjeta](/Imagenes/TarjetaDescriptiva.jpeg)
 
 ## Descripción general
