@@ -78,7 +78,4 @@ Pendiente
 * **Pilar Mondragón** (Desarrollador): Desarrollo de la interfaz frontend y la integración con el backend.
 * **Verónica Lira** (Desarrollador): Desarrollo de la interfaz frontend y la integración con el backend.
 
-
-[Enlace a perfil de GitHub de cada uno de los miembros del equipo]
-
 ¡Disfruta creando tu propio Pokédex!
