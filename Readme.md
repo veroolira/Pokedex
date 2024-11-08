@@ -69,11 +69,12 @@ Pendiente
 ## Autores
 
 * **Ricardo Rosas** (Desarrollador): Desarrollo de la interfaz frontend y la integración con el backend.
-* **Itzel Quezada** (Diseñadora): Diseño de la interfaz de usuario y la experiencia del usuario.
-* **Pilar Mondragón** (Desarrollador): Desarrollo de la interfaz frontend y la integración con el backend.
-* **Verónica Lira** (Desarrollador): Desarrollo de la interfaz frontend y la integración con el backend.
+* **Itzel Quezada** (Desarroladora): Desarrollo de la interfaz frontend y la integración con el backend.
+* **Pilar Mondragón** (Desarrolladora): Desarrollo de la interfaz frontend y la integración con el backend.
+* **Verónica Lira** (Desarrolladora): Desarrollo de la interfaz frontend y la integración con el backend.
 
 
-[Enlace a perfil de GitHub de cada uno de los miembros del equipo]
+[github.com/rickyroses]
+
 
 ¡Disfruta creando tu propio Pokédex!
