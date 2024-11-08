@@ -73,7 +73,7 @@ Pendiente
 
 ## Autores
 
-* **Ricardo Rosas** (Desarrollador): Desarrollo de la interfaz frontend y la integración con el backend.
+* **Ricardo León** (Desarrollador): Desarrollo de la interfaz frontend y la integración con el backend.
 * **Itzel Quezada** (Diseñadora): Diseño de la interfaz de usuario y la experiencia del usuario.
 * **Pilar Mondragón** (Desarrollador): Desarrollo de la interfaz frontend y la integración con el backend.
 * **Verónica Lira** (Desarrollador): Desarrollo de la interfaz frontend y la integración con el backend.
