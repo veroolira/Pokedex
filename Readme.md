@@ -64,7 +64,7 @@ Si deseas contribuir a este proyecto, puedes:
 Pendiente
 
 ## Demostración
-[(http://127.0.0.1:5500/index.html)]
+[rickyroses.github.io/Pokedex/]
 
 ## Autores
 
