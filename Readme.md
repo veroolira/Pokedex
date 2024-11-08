@@ -64,7 +64,7 @@ Si deseas contribuir a este proyecto, puedes:
 Pendiente
 
 ## Demostración
-[rickyroses.github.io/Pokedex/]
+https://rickyroses.github.io/Pokedex/
 
 ## Autores
 
